@@ -1,7 +1,9 @@
-baseURL = 'https://matt-richardson-tools.com/'
+baseURL = 'https://matt.richardson.tools/'
 languageCode = 'en-us'
-title = 'matt-richardson-tools'
+title = 'matt.richardson.tools'
 
 [module]
   [[module.imports]]
     path = "github.com/mrmierzejewski/hugo-theme-console"
+
+theme = "github.com/mrmierzejewski/hugo-theme-console"
